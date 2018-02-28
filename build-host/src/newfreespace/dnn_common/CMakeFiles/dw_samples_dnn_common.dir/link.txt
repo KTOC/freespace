@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdw_samples_dnn_common.a  CMakeFiles/dw_samples_dnn_common.dir/DNNInference.cpp.o CMakeFiles/dw_samples_dnn_common.dir/SensorIOCuda.cpp.o
+/usr/bin/ranlib libdw_samples_dnn_common.a

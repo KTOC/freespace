@@ -1,6 +1,6 @@
 # Copyright (c) 2017, NVIDIA CORPORATION.  All rights reserved.
 
-project(sample_freespace_detection C CXX)
+project(sample_newfreespace_detection C CXX)
 
 #-------------------------------------------------------------------------------
 # Project files
